@@ -10,5 +10,5 @@ The dataset is called **us_income_data.xlsx** and contains the following Sheet/V
 * srGBM parameters/year - year (time variable);
 * srGBM parameters/top 10% share - empirical variable for the share of income owned by the workers situated at the top 10% of the income distribution;
 * srGBM parameters/resetting_rate - empirical variable for the resetting rate;
-* srGBM parameters/mu - fitted drift parameter: mu;
-* srGBM parameters/sigma - fitted volatility parameter: sigma;
+* srGBM parameters/mu - fitted drift parameter: $\mu$;
+* srGBM parameters/sigma - fitted volatility parameter: $\sigma$;
