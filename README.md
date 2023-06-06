@@ -1,8 +1,10 @@
 # us-mfpt-srgbm
 
-This repository includes the data used in the paper: "", available at:
-The dataset is called **us_threshold_data.xlsx** and contains the following Sheet/Variable:
+This repository includes data presented in the paper: "", available at:
+The dataset is called **us_income_data.xlsx** and contains the following Sheet/Variable:
 
+* Average income data/year - year (time variable);
+* Average income data/pxpy - we used in total 18 different threshold income -- short note: if x=5 and y=6, then the column **p5p6** contains the minimum income (threshold) one needs to cross in order to enter the **sixth** percentile of the income distribution. Similarly, if x=80 and y=90, then the column **p80p90** represent the threshold income to enter the **ninth** decile of the income distribution;
 * Threshold income data/year - year (time variable);
 * Threshold income data/pxpy - we used in total 18 different threshold income -- short note: if x=5 and y=6, then the column **p5p6** contains the minimum income (threshold) one needs to cross in order to enter the **sixth** percentile of the income distribution. Similarly, if x=80 and y=90, then the column **p80p90** represent the threshold income to enter the **ninth** decile of the income distribution;
 * srGBM parameters/year - year (time variable);
